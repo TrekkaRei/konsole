@@ -1,0 +1,2 @@
+# konsole
+konsole layout
